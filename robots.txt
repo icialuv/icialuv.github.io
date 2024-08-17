@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icialuv.github.io/sitemap.html.gz
+Sitemap: https://icialuv.github.io/app/sitemap.html.gz
+Sitemap: https://icialuv.github.io/assets/sitemap.html.gz
+Sitemap: https://icialuv.github.io/css/sitemap.html.gz
+Sitemap: https://icialuv.github.io/includes/sitemap.html.gz
+Sitemap: https://icialuv.github.io/item/sitemap.html.gz
+Sitemap: https://icialuv.github.io/src/sitemap.html.gz
